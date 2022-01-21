@@ -10,6 +10,9 @@ This is a temporary script file.
 
 ## https://parmed.github.io/ParmEd/html/omm_gromacs.html
 ## http://docs.openmm.org/latest/userguide/application/02_running_sims.html#charmm36
+## https://onlinelibrary.wiley.com/doi/full/10.1002/jcb.28575?saml_referrer
+## https://github.com/alanwilter/acpype
+##     amb2gmx.pl https://github.com/choderalab/mmtools/tree/3ade988afb51cd54ee5a4067d8deaad88afbb0fe/converters
 
 ##############################################################################
 
